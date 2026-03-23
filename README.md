@@ -1,5 +1,7 @@
 # Conventional Comments button
 
+**FORKED FROM : https://gitlab.com/conventionalcomments/conventional-comments-button**
+
 This is a tiny extension that adds a conventional comment button to GitLab file explorer comments, allowing to quickly leave a structured semantic comment during your MR reviews!
 
 ## Demo
@@ -21,3 +23,8 @@ First, clone this repo `git@github.com:thomasviaud/conventional-comments-button-
 
 - On Firefox: enter `about:debugging#/runtime/this-firefox` into the address bar
 - In the Extension page: `Load Temporary Add-on...` and select any file within the cloned repository
+
+
+## Usage
+
+On the comment box on Gitlab, click on "Switch to plain text editing". You should see some conventional comment icons that you can use.
